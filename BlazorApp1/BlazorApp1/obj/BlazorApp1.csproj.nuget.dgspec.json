@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "c:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\pramo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\Users\\pramo\\OneDrive\\Desktop\\Blazor\\BlazorApp1\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
